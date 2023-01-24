@@ -4,7 +4,7 @@
 This is a system that manages books in the Unity University library
 
 
-## Authors (Section N4 Students)
+# Authors (Section N4 Students)
 
 - Alazar Zewdu UU79133R (https://github.com/alazarzewdu)
 - Abkale Fekadu UU79283R (https://github.com/abkalefekadu)
@@ -15,14 +15,14 @@ This is a system that manages books in the Unity University library
 
 
 
-## Demo
+# Demo
 
-# Home Page 
+### Home Page 
 
 <a href="https://ibb.co/6tRhn9g"><img src="https://i.ibb.co/vdx5wyZ/Screen-Shot-2023-01-24-at-11-07-23-AM.png" alt="Screen-Shot-2023-01-24-at-11-07-23-AM" border="0" /></a> 
 
 
-## Acknowledgements
+# Acknowledgements
 
  - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
