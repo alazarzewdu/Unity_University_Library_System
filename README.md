@@ -6,7 +6,7 @@ This is a system that manages books in the Unity University library
 
 ## Authors (Section N4 Students)
 
-- [@Alazar Zewdu] UU79133R(https://www.github.com/octokatherine)
+- Alazar Zewdu UU79133R (https://www.github.com/octokatherine)
 
 
 ## Demo
