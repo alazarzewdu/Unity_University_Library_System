@@ -21,6 +21,12 @@ This is a system that manages books in the Unity University library
 
 <a href="https://ibb.co/6tRhn9g"><img src="https://i.ibb.co/vdx5wyZ/Screen-Shot-2023-01-24-at-11-07-23-AM.png" alt="Screen-Shot-2023-01-24-at-11-07-23-AM" border="0" /></a> 
 
+### Add Book Page 
+<a href="https://ibb.co/1z110KV"><img src="https://i.ibb.co/9Z66p2X/Screen-Shot-2023-01-24-at-11-07-42-AM.png" alt="Screen-Shot-2023-01-24-at-11-07-42-AM" border="0"></a>
+
+### View Component
+<a href="https://ibb.co/1z110KV"><img src="https://i.ibb.co/9Z66p2X/Screen-Shot-2023-01-24-at-11-07-42-AM.png" alt="Screen-Shot-2023-01-24-at-11-07-42-AM" border="0"></a>
+
 
 # Acknowledgements
 
