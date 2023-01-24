@@ -7,10 +7,11 @@ This is a system that manages books in the Unity University library
 ## Authors (Section N4 Students)
 
 - Alazar Zewdu UU79133R (https://github.com/alazarzewdu)
-- Abkale Fekadu UU79133R (https://github.com/alazarzewdu)
+- Abkale Fekadu UU79283R (https://github.com/abkalefekadu)
+- Natnael Tewodros UU79227R 
 - Nehmia Debrework UU79130R (https://github.com/Nehmia1)
-- Samson Ketema UU79133R (https://github.com/alazarzewdu)
-- Alazar Zewdu UU79133R (https://github.com/alazarzewdu)
+- Samson Ketema UU80294R (https://github.com/samsonketema21)
+- Youhannes Demissie UU81067R 
 
 
 
