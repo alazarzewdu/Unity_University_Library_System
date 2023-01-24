@@ -6,7 +6,12 @@ This is a system that manages books in the Unity University library
 
 ## Authors (Section N4 Students)
 
-- Alazar Zewdu UU79133R (https://www.github.com/octokatherine)
+- Alazar Zewdu UU79133R (https://github.com/alazarzewdu)
+- Abkale Fekadu UU79133R (https://github.com/alazarzewdu)
+- Nehmia Debrework UU79130R (https://github.com/Nehmia1)
+- Samson Ketema UU79133R (https://github.com/alazarzewdu)
+- Alazar Zewdu UU79133R (https://github.com/alazarzewdu)
+
 
 
 ## Demo
